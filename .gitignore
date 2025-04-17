@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.venv/
+venv/
+env/
+.venv/
+.env/
+.pytest_cache/
+
+# --- Docker ---
+**/.dockerignore
+**/.env
+**/env.local
+docker-compose.override.yml
+
+# --- Database ---
+*.db
+*.sqlite
+pgdata/  # PostgreSQL data directory
+
+# --- n8n ---
+n8n/data/credentials.json
+n8n/data/config/
+
+# --- IDE & Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# --- Logs ---
+*.log
+logs/
+
+# --- OS generated files ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
