@@ -96,29 +96,3 @@ ay-automate-ai-agent/
 ![Workflow Diagram](https://i.imgur.com/placeholder.png)  
 
 ---
-
-## **📈 Extensions & Improvements**  
-- **Add authentication** (JWT/OAuth).  
-- **Support more channels** (Email, WhatsApp via Twilio).  
-- **Fine-tune OpenAI responses** with company-specific data.  
-- **Deploy on AWS/GCP** for scalability.  
-
----
-
-## **📜 License**  
-MIT  
-
----
-
-## **📞 Contact**  
-Your Name  
-[Your Email] | [LinkedIn] | [Portfolio]  
-
----
-
-This `README.md` provides a **professional**, **detailed**, and **visually structured** overview of your project. It highlights:  
-- **Business value** (automation, AI integration).  
-- **Technical depth** (Docker, APIs, n8n).  
-- **Ease of setup** (clear instructions).  
-
-Would you like me to refine any section further? 😊
